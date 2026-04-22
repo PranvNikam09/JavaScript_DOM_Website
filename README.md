@@ -36,7 +36,11 @@ The application leverages a central container in `index.html` which is then popu
 
 ## 📸 Screenshots
 
-*(Add your project screenshots here)*
+### 🏠 Landing Page
+![Landing Page](images/screenshots/index.png)
+
+### 🎫 Flight Ticket Generation
+![Ticket Generation](images/screenshots/ticket.png)
 
 ## 📝 License
 
